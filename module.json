@@ -12,7 +12,7 @@
     ],
     "compatibility": {
         "minimum": "14.360",
-        "verified": "14.361",
+        "verified": "14.368",
         "maximum": "14"
     },
     "esmodules": ["dist/pf2e-assistant.js"],
@@ -28,14 +28,14 @@
                 "id": "pf2e",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "8.1.2"
+                    "minimum": "8.5.1"
                 }
             },
             {
                 "id": "sf2e",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "1.1.2"
+                    "minimum": "1.5.1"
                 }
             }
         ]
