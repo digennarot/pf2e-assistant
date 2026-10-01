@@ -3,7 +3,7 @@ description: File a feature request to add new automation to PF2e Assistant.
 title: "[Feature Request]: <Feat/Feature/Spell/Etc Name>"
 labels: ["enhancement"]
 assignees:
-  - 7H3LaughingMan
+  - digennarot
 body:
   - type: input
     attributes:

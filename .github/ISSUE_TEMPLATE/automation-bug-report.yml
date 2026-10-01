@@ -3,7 +3,7 @@ description: File a bug report regarding a specific automation in PF2e Assitant.
 title: "[Bug]: <Feat/Feature/Spell/Etc Name>"
 labels: ["bug"]
 assignees:
-  - 7H3LaughingMan
+  - digennarot
 body:
   - type: input
     attributes:

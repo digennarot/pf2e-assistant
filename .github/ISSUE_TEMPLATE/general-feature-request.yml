@@ -3,7 +3,7 @@ description: File a feature request not linked to a specific action/feat/feature
 title: "[Feature Request]: <Title>"
 labels: ["enhancement"]
 assignees:
-  - 7H3LaughingMan
+  - digennarot
 body:
   - type: textarea
     attributes:
