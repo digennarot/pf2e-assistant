@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [8.1.5] - 2026-10-11
+
+Foundry VTT v14.369 Update
+
 ## [8.1.4] - 2026-10-11
 
 PF2e System v8.6.0 Update
@@ -613,6 +617,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
+[8.1.5]: https://github.com/digennarot/pf2e-assistant/compare/v8.1.4...v8.1.5
 [8.1.4]: https://github.com/digennarot/pf2e-assistant/compare/v8.1.3...v8.1.4
 [8.1.3]: https://github.com/digennarot/pf2e-assistant/compare/v8.1.2...v8.1.3
 [8.1.2]: https://github.com/digennarot/pf2e-assistant/compare/v8.1.1...v8.1.2
