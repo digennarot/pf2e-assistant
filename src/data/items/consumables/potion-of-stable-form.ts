@@ -34,7 +34,7 @@ export const actions: Assistant.Action[] = [
 
             await game.assistant.socket.addEffect(
                 target.actor,
-                PF2E_EQUIPMENT_EFFECTS["effect-potion-of-stable-form-greater"],
+                PF2E_EQUIPMENT_EFFECTS["effect-potion-of-stable-form"],
                 {
                     origin: data.speaker,
                     item: data.item

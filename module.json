@@ -28,14 +28,16 @@
                 "id": "pf2e",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "8.6.0"
+                    "minimum": "8.6.0",
+                    "verified": "8.6.0"
                 }
             },
             {
                 "id": "sf2e",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "1.6.0"
+                    "minimum": "1.6.0",
+                    "verified": "1.6.0"
                 }
             }
         ]

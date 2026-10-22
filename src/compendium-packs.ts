@@ -22207,7 +22207,6 @@ export const enum PF2E_EQUIPMENT_EFFECTS {
     "effect-potion-of-minute-echoes" = "Compendium.pf2e.equipment-effects.Item.HaZ5LB1wh1LY5wUy",
     "effect-potion-of-sonic-resistance" = "Compendium.pf2e.equipment-effects.Item.nBGodDOQTCWBXjNd",
     "effect-potion-of-stable-form" = "Compendium.pf2e.equipment-effects.Item.uVxs1qFMQsGWXNs6",
-    "effect-potion-of-stable-form-greater" = "Compendium.pf2e.equipment-effects.Item.W9tKQlA7tVIcAuzw",
     "effect-potion-of-swimming" = "Compendium.pf2e.equipment-effects.Item.W3xQBLj5hLOtb6Tj",
     "effect-potion-of-swimming-greater" = "Compendium.pf2e.equipment-effects.Item.ModBoFdCi7YQU4gP",
     "effect-predators-claw" = "Compendium.pf2e.equipment-effects.Item.Vvl1GFfuvFzvOkbD",
